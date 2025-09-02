@@ -1,1 +1,1 @@
-/Basics of computer vision
+/opencv
