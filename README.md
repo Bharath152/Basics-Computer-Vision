@@ -13,9 +13,9 @@ Simple collection of examples and exercises for basic computer vision using Open
 
 ## Setup (Conda) — recommended
 1. Create environment:
-   - conda create -n basic_cv python=3.10 -y
+   - conda create -n env python=3.12
 2. Activate:
-   - conda activate basic_cv
+   - conda activate env
 3. Install packages:
    - conda install -c conda-forge opencv matplotlib jupyter -y
    - or using pip:
